@@ -1,0 +1,24 @@
+From e7dd3f7e26457c4dbf7152d79f33b17469893cf2 Mon Sep 17 00:00:00 2001
+From: amanchon <amanchon@minsait.com>
+Date: Thu, 12 Nov 2026 10:04:56 +0100
+Subject: [PATCH] Update index of register
+
+---
+ Web/users/register/index.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/Web/users/register/index.html b/Web/users/register/index.html
+index d79e631..706d9fc 100644
+--- a/Web/users/register/index.html
++++ b/Web/users/register/index.html
+@@ -11,6 +11,7 @@
+ </head>
+ <body>
+     <h1>Welcome to the homepage!</h1>
++    <li>href:</li>
+ 
+ </body>
+ </html>
+-- 
+2.54.0.windows.1
+
