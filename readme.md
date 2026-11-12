@@ -7,3 +7,8 @@ Los primeros comandos que veremos son:
 -git init
 -git add
 git commit
+
+Hemos visto:
+- Reescribir la historio
+- trabajar con ramas
+- trabajar con los remotos
