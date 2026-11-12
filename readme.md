@@ -12,3 +12,5 @@ Hemos visto:
 - Reescribir la historio
 - trabajar con ramas
 - trabajar con los remotos
+
+Metemos más cosas para que se tenga que actualizar
