@@ -16,3 +16,4 @@ Hemos visto:
 Metemos más cosas para que se tenga que actualizar
 
 Modificamos en local para generar conflictos
+Y otra vez para ver fetch y merge
