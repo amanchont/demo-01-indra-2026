@@ -14,3 +14,5 @@ Hemos visto:
 - trabajar con los remotos
 
 Metemos más cosas para que se tenga que actualizar
+
+Modificamos en local para generar conflictos
