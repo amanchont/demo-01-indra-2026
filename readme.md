@@ -14,3 +14,4 @@ Hemos visto:
 - trabajar con los remotos
 
 Metemos más cosas para que se tenga que actualizar
+Y otra vez para ver fetch y merge
